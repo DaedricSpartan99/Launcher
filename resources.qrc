@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="logo.png">image/logo.png</file>
+        <file alias="mcsharkwave.png">image/mcsharkwave.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="creerg.ttf">fonts/creerg.ttf</file>
+    </qresource>
+</RCC>
